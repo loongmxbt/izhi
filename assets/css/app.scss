@@ -1,0 +1,16 @@
+@import "bulma";
+
+footer {
+	 h3 {
+		font-weight: bold;
+		padding-bottom: 5px;
+	}
+
+	li {
+		font-size: 0.9rem;
+		line-height: 2;
+		a {
+		    color: grey;
+		}
+	}
+}

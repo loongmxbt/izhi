@@ -1,0 +1,59 @@
+<footer class="footer">
+  <div class="container">
+  	<div class="columns">
+  		<div class="column">
+				<h3>关于创中国</h3>
+				<ul>
+        	<li><a href="">了解我们</a></li>
+        	<li><a href="">品牌故事</a></li>
+        	<li><a href="">加入我们</a></li>
+        	<li><a href="">联系我们</a></li>
+        </ul>
+  		</div>
+  		<div class="column">
+				<h3>常见问题</h3>
+				<ul>
+        	<li><a href="">新手帮助</a></li>
+        	<li><a href="">支付帮助</a></li>
+        	<li><a href="">开具发票</a></li>
+        	<li><a href="">知识库</a></li>
+        </ul>
+  		</div>
+  		<div class="column">
+        <h3>商务合作</h3>
+        <ul>
+        	<li><a href="">商务合作</a></li>
+        	<li><a href="">友情链接</a></li>
+        	<li><a href="">孵化器</a></li>
+        	<li><a href="">投融资</a></li>
+        </ul>
+  		</div>
+  		<div class="column">
+        <h3>服务商入口</h3>
+        <ul>
+        	<li><a href="">服务商登录</a></li>
+        	<li><a href="">服务商加盟</a></li>
+        </ul>
+  		</div>
+  		<div class="column is-2">
+
+				<h3>二维码</h3>
+				<figure class="image">
+				  <img src="http://iph.href.lu/150x150">
+				</figure>
+		    
+			</div>
+		  <div class="column is-3">
+				<h3>服务支持</h3>
+				<p>TEL: 4008888888</p>
+				<p>Email: contact@corpinchina.com</p>
+
+		  </div>
+  	</div><!--/end columns-->
+		<hr>
+  	<div class="colums has-text-centered">
+  		<p>Copyright © 2016-2017 北京快又好信息技术有限责任公司 京ICP备14022439号-1 京ICP证151113号 京公网安备11010802015816号</p>
+  	</div>
+    
+  </div>
+</footer>
